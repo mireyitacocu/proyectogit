@@ -1,4 +1,3 @@
 Archivo agregar em el staging area
 Modificación para el archivo en branch primerrama
-M
 Mensaje de prueba para probar merge
